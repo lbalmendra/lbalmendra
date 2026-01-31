@@ -8,18 +8,18 @@
 
 <!-- PRIMARY CTAs -->
 <p align="center">
-  <a href="https://github.com/lucasbemlucas?tab=repositories&sort=stargazers">
+  <a href="https://github.com/lbalmendra?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/lucasbemlucas?style=for-the-badge&logo=star&date=120825"/>
+      src="https://custom-icon-badges.demolab.com/github/stars/lbalmendra?style=for-the-badge&logo=star&date=120825"/>
   </a>
   <br>
-  <a href="https://github.com/lucasbemlucas?tab=followers">
+  <a href="https://github.com/lbalmendra?tab=followers">
     <img alt="followers" title="Follow me on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/lucasbemlucas?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=120825"/>
+      src="https://custom-icon-badges.demolab.com/github/followers/lbalmendra?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=120825"/>
   </a>
-  <a href="https://github.com/lucasbemlucas/">
+  <a href="https://github.com/lbalmendra/">
     <img alt="views" title="GitHub profile views"
-      src="https://komarev.com/ghpvc/?username=lucasbemlucas&style=for-the-badge"/>
+      src="https://komarev.com/ghpvc/?username=lbalmendra&style=for-the-badge"/>
   </a>
   <br>
 </p>
@@ -59,8 +59,8 @@ Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e imp
 <!-- LINKS SECUNDÁRIOS -->
 <h3>Portais</h3>
 <ul>
-  <li>📦 Repositórios: <a href="https://github.com/lucasbemlucas?tab=repositories&sort=stargazers">GitHub</a></li>
-  <li>👤 Perfil: <a href="https://github.com/lucasbemlucas">github.com/lucasbemlucas</a></li>
+  <li>📦 Repositórios: <a href="https://github.com/lbalmendra?tab=repositories&sort=stargazers">GitHub</a></li>
+  <li>👤 Perfil: <a href="https://github.com/lbalmendra">github.com/lbalmendra</a></li>
 </ul>
 
 <!-- FOOTER BADGE LINE -->
