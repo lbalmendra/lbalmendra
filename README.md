@@ -24,12 +24,6 @@
   <br>
 </p>
 
-<!-- MINI TAGLINE -->
-<p align="center">
-  <sub>
-    <strong>“sistemas que funcionam além da lógica”</strong> — intenção, verdade e impacto real
-  </sub>
-</p>
 
 <!-- STREAK / STATS -->
 
