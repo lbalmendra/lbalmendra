@@ -2,9 +2,16 @@
 <h1 align="center" style="font-family: 'Share Tech Mono', monospace;">
   Oi! 👋
 </h1>
+<div align="center">  
+  <!-- Tux Gif -->
+  <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" alt="Linux Tux" width="150"/>
+</div>
+
 <p align="center">
-  <em>desenvolvimento fullstack - redes - segurança da informação</em>
+  <em>linux - redes - segurança da informação</em>
 </p>
+
+
 
 <!-- PRIMARY CTAs -->
 <p align="center">
