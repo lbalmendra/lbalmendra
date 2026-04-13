@@ -36,11 +36,13 @@
 
 <!-- ABOUT -->
 <p align="left">
-Sou um desenvolvedor focado em aplicações eficientes, escaláveis e seguras, sempre com boas práticas, visão estratégica e ética de código. 
-<br/>
-Curso análise e desenvolvimento de sistemas e estudo redes e segurança da informação.
-<br/>
+Profissional de TI, com experiência prática em suporte técnico, infraestrutura e liderança operacional no varejo.
+<br/><br/> Atuo com administração de sistemas Linux, automação via Python e desenvolvimento de APIs REST com .NET Core — sempre com foco em resolver problemas reais e ganhar eficiência.
+<br/><br/>Tenho conhecimento aplicado em segurança da informação: monitoramento com Wazuh (SIEM), hardening de sistemas, LGPD e frameworks como NIST CSF e MITRE. Minha abordagem une a visão prática de quem já resolveu incidentes no chão de fábrica com a base técnica de quem está se especializando na área.
+<br/><br/>Atualmente finalizando a graduação em Análise e Desenvolvimento de Sistemas e o Google Cybersecurity Professional Certificate.
+<br/><br/>
 Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e impacto real.
+<br/><br/>📌 Áreas de interesse: Segurança da Informação | Infraestrutura
 </p>
 
 <!-- TECH STACK -->
