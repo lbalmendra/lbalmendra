@@ -59,13 +59,6 @@ Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e imp
   <img align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<!-- LINKS SECUNDÁRIOS -->
-<h3>Portais</h3>
-<ul>
-  <li>📦 Repositórios: <a href="https://github.com/lbalmendra?tab=repositories&sort=stargazers">GitHub</a></li>
-  <li>👤 Perfil: <a href="https://github.com/lbalmendra">github.com/lbalmendra</a></li>
-</ul>
-
 <!-- FOOTER BADGE LINE -->
 <p align="center">
   <!-- <a href="https://thematrixbunny.vercel.app/">
